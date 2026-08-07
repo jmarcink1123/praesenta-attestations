@@ -6,3 +6,4 @@ praesenta-attestation-anchor session=2026-08-03 lines=117 tail_sha256=e3afb46aa9
 praesenta-attestation-anchor session=2026-08-04 lines=143 tail_sha256=3fa3b43aa57528f0eb9f195c033bc6e82dec2368fe3c48d9459c36fa186014f1
 praesenta-attestation-anchor session=2026-08-04 lines=145 tail_sha256=f1303793d150eed5e853792c60682aefb1e0d459a762f06319c9ab48c8f7b053
 praesenta-attestation-anchor session=2026-08-05 lines=173 tail_sha256=6c8afca242d77547913e27688c48aea0b30e42633b95681b151fccdd3ae16fab
+praesenta-attestation-anchor session=2026-08-06 lines=201 tail_sha256=9116661d6322942b8caf056bf18c123c9181ed5cff047af56c73b04c510dc97e
