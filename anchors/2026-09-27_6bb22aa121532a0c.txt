@@ -1,0 +1,1 @@
+praesenta-attestation-anchor session=2026-09-27 lines=1255 tail_sha256=6bb22aa121532a0ccd248aeae577867cbb5d9f4c96df657c121731bfcd974b5a
